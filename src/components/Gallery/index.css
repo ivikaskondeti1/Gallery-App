@@ -1,0 +1,20 @@
+.mainPage {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+
+  width: 80%;
+  height: 100vh;
+}
+
+.imageCard {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+img {
+  width: 700px;
+  height: 400px;
+  border-radius: 10px;
+}

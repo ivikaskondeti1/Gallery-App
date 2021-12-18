@@ -1,0 +1,9 @@
+.imageStyle {
+  height: 60px;
+  width: 60px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.activeStyle {
+  opacity: 0.5;
+}
